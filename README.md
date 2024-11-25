@@ -1,2 +1,4 @@
 # topicos_II
 TOPICOS_ESPECIAIS_EM_ENGENHARIA_DE_SOFTWARE_II 
+
+Alterações realizadas!
